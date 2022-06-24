@@ -1,0 +1,33 @@
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: black;
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 60pt;
+}
+
+#big-button {
+	width: 60%;
+	height: 175pt;
+	border-color: black;
+	border-radius: 40pt;
+	background-color: red;
+	font-size: 40pt;
+	font-family: sans-serif;
+	color: white;
+	transition: background-color 0.3s ease-in-out;
+}
+
+#big-button:hover {
+	background-color: darkred;
+}
+
+.signature {
+	font-family: cursive; 
+	font-size: 55pt;
+}
