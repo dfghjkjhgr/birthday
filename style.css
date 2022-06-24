@@ -12,19 +12,20 @@ h1 {
 }
 
 #big-button {
-	width: 60%;
-	height: 175pt;
-	border-color: black;
-	border-radius: 40pt;
-	background-color: red;
-	font-size: 40pt;
-	font-family: sans-serif;
-	color: white;
-	transition: background-color 0.3s ease-in-out;
+  width: 50%;
+  height: 50pt;
+  border-color: gray;
+  border-radius: 40pt;
+  background-color: darkred;
+  font-size: 40pt;
+  font-family: sans-serif;
+  color: white;
+  transition: background-color 0.1s ease-in-out;
+  border-style: solid;
 }
 
 #big-button:hover {
-	background-color: darkred;
+	background-color: red;
 }
 
 .signature {
