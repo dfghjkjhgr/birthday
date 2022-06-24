@@ -12,10 +12,10 @@ h1 {
 }
 
 #big-button {
-  width: 50%;
-  height: 50pt;
+  width: 20vw;
+  height: 20vw;
   border-color: gray;
-  border-radius: 40pt;
+  border-radius: 100%;
   background-color: darkred;
   font-size: 40pt;
   font-family: sans-serif;

@@ -16,7 +16,7 @@ $('#big-button').addEventListener('click', function() {
 			}
 		case 1:
 			setInterval(function() {
-				$('body').style.backgroundColor = `hsl(${getRandomInt(256)}, 90%, 90%)`
+				$('body').style.backgroundColor = `hsl(${getRandomInt(256)}, 100%, 30%)`
 			}, 1000);
 		case 0:
 			document.title = 'Yay!!!!!!';
