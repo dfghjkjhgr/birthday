@@ -1,1 +1,2 @@
-# birtday
+# birthday
+A quick birthday template
